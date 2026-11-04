@@ -1,2 +1,0 @@
-# Check-the-device
-Idk
